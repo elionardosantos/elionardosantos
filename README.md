@@ -1,16 +1,21 @@
-## Hi there 👋
+- 👋 Hi, my name is Elionardo Santos
+- 😎 I'm 33 years old, 1992
+- 🌎 I'm brazilian, from Rio de Janeiro
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning web development
+- 👨‍💻 I’m looking for companies to collaborate with web development and TI
+- 📫 How to reach me: elionars@gmail.com
+- 👔 Linkedin: <a href="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="blank">Elionardo Santos</a>
 
-<!--
-**elionardosantos/elionardosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+- 👋 Olá, meu nome é Elionardo Santos
+- 😎 Tenho 33 anos, 1992
+- 🌎 Sou brasileiro, do Rio de Janeiro
+- 👀 Estou interessado em programação e desenvolvimento web
+- 🌱 Atualmente estou aprendendo desenvolvimento web
+- 👨‍💻 Estou procurando por empresas para colaborar com desenvolvimento web e TI
+- 📫 Como me contatar: elionars@gmail.com
+- 👔 Linkedin: <a href="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="blank">Elionardo Santos</a>
