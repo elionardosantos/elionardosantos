@@ -1,21 +1,24 @@
-- 👋 Hi, my name is Elionardo Santos
-- 😎 I'm 33 years old, 1992
-- 🌎 I'm brazilian, from Rio de Janeiro
-- 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning web development
-- 👨‍💻 I’m looking for companies to collaborate with web development and TI
-- 📫 How to reach me: elionars@gmail.com
-- 👔 Linkedin: <a href="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="blank">Elionardo Santos</a>
+- 👋 Hi, my name is **Elionardo Santos**
+- 🌎 Brazilian, based in Rio de Janeiro
+- 👀 I’m interested in Software Development and Technology
+- 🌱 I’m currently a **Full Stack Development** student
+- 🔄 Career Transition: E-commerce to Tech
+- 🛠️ Stacks: Java, PHP, JS, MySQL, PostgreSQL, Docker & Git
+- 👨‍💻 I’m looking for opportunities to collaborate with **IT** teams
+- 📫 Reach me at: [elionars@gmail.com](mailto:elionars@gmail.com)
+- 👔 LinkedIn: [Elionardo Santos](https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187)
+- ✨ Hobbies: Keyboardist and Music Technology enthusiast (Audio Operation & Production).
+<br>
 
+---
 
-
-<hr>
-
-- 👋 Olá, meu nome é Elionardo Santos
-- 😎 Tenho 33 anos, 1992
-- 🌎 Sou brasileiro, do Rio de Janeiro
-- 👀 Estou interessado em programação e desenvolvimento web
-- 🌱 Atualmente estou aprendendo desenvolvimento web
-- 👨‍💻 Estou procurando por empresas para colaborar com desenvolvimento web e TI
-- 📫 Como me contatar: elionars@gmail.com
-- 👔 Linkedin: <a href="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="blank">Elionardo Santos</a>
+- 👋 Olá, meu nome é **Elionardo Santos**
+- 🌎 Brasileiro, moro no Rio de Janeiro
+- 👀 Interessado em Desenvolvimento de Software e Inovação Tecnológica
+- 🌱 Atualmente, estou estudando **Programação Full Stack**
+- 🔄 Transição de Carreira: Do E-commerce para a área Tech
+- 🛠️ Tecnologias: Java, PHP, JS, MySQL, PostgreSQL, Docker e Git
+- 👨‍💻 Busco oportunidades para colaborar em times de **TI**
+- 📫 Contato: [elionars@gmail.com](mailto:elionars@gmail.com)
+- 👔 LinkedIn: [Elionardo Santos](https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187)
+- ✨ Hobbies: Tecladista e entusiasta de Tecnologia Musical (Operação de Áudio e Produção).
